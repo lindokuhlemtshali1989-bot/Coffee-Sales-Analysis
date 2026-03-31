@@ -1,2 +1,2 @@
 # Coffee-Sales-Analysis
-To provide actionable insights for Bright Coffee Shop, we can combine SQL analytics, data summarization, and visualization techniques. Here’s a structured methodology:
+The project aim provide actionable insights for Bright Coffee Shop , I have combined SQL analytics, data summarization, and visualization technique. I used the dataset which captures daily transactional information from Coffee shop. the business has appointed new CEO whose mission is to grow the company revenue and improve product perfomance. My role as Data Scientist is to extraxt very actionable insight from historical data to assist CEO in decision-manking. Tools used Miro for mind map, have used Miro for project planning, also used Canva for Project planning.
